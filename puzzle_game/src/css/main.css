@@ -1,0 +1,16 @@
+.gridsquare {
+  border: none;
+}
+
+.gridsquare:hover {
+  border: solid #ffffff;
+}
+
+.gridsquare-row {
+  display: flex;
+}
+
+.imgSegment {
+  height: 100%;
+  cursor: pointer;
+}
