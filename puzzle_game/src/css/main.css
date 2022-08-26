@@ -12,5 +12,5 @@
 
 .imgSegment {
   height: 100%;
-  cursor: pointer;
+  cursor: not-allowed;
 }
