@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1170px" height="6px">
+	<defs>
+		<linearGradient id="PSgrad_0" x1="0%" x2="100%" y1="0%" y2="0%">
+			<stop offset="0%" stop-color="rgb(249,249,249)" stop-opacity="1" />
+			<stop offset="20%" stop-color="rgb(241,241,241)" stop-opacity="0" />
+			<stop offset="50%" stop-color="rgb(228,228,228)" stop-opacity="0" />
+			<stop offset="80%" stop-color="rgb(241,241,241)" stop-opacity="0" />
+			<stop offset="100%" stop-color="rgb(249,249,249)" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<path fill-rule="evenodd" fill="rgb(222, 222, 222)" d="M748.999,5.998 L748.999,4.998 L1170.000,4.998 L1170.000,5.998 L748.999,5.998 ZM748.999,-0.002 L1170.000,-0.002 L1170.000,0.997 L748.999,0.997 L748.999,-0.002 ZM420.000,0.997 L-0.000,0.997 L-0.000,-0.002 L420.000,-0.002 L420.000,0.997 ZM420.000,5.998 L-0.000,5.998 L-0.000,4.998 L420.000,4.998 L420.000,5.998 Z" />
+	<path fill="url(#PSgrad_0)" d="M748.999,5.998 L748.999,4.998 L1170.000,4.998 L1170.000,5.998 L748.999,5.998 ZM748.999,-0.002 L1170.000,-0.002 L1170.000,0.997 L748.999,0.997 L748.999,-0.002 ZM420.000,0.997 L-0.000,0.997 L-0.000,-0.002 L420.000,-0.002 L420.000,0.997 ZM420.000,5.998 L-0.000,5.998 L-0.000,4.998 L420.000,4.998 L420.000,5.998 Z" />
+</svg>
