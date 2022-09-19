@@ -41,6 +41,7 @@ body {
 .section-title-holder .text-title {
   font-size: 26px;
   font-weight: 800;
+  text-align: center;
 }
 .section-title-holder .line-deco-right {
   margin-left: 20px;
